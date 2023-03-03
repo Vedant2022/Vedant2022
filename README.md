@@ -45,6 +45,8 @@ cross-functional teams to deliver projects on time and within budget.</p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">  <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101052517/222644751-8dba9de1-f90e-4a58-8310-de03d04254f0.png"  width="45" height="45" /> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="photoshop" width="40" height="40"/> </p>
+  
+  <a align="left"> <img src="https://img.shields.io/badge/Code%20Time-211%20hrs%2026%20mins-orange"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedant2022&show_icons=true&locale=en&layout=compact" alt="Vedant2022" /></p>
 
