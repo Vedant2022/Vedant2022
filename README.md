@@ -8,6 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant2022&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
 
+<h2 align="center">About Me</h2>
 <p align="center">I am a Meta Certified Front - End Web Developer with freelancing
 experience in web designing. Helped individuals to-step into the
 competitive world through websites. I am skilled with expertise in
