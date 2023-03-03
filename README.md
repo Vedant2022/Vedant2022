@@ -8,15 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-yogi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
 
-- 🔭 I’m currently working on **Advance Front-End Web Design**
+- 🔭 I’m enhancing my skills of **Front-End Web Design**
 
-- 🌱 I’m currently learning **Advanced Python & Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data-science & Web-development.**
+- 💬 Ask me about **Data-science & Front-End Web-development.**
 
 - 📫 How to reach me **vedantnileshthakur@gmail.com**
-
-- ⚡ Fun fact **Currently doing data science but more passionate about Front-End Design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
