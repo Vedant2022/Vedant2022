@@ -27,13 +27,10 @@ cross-functional teams to deliver projects on time and within budget.</p>
 
 <h2 align="left">Connect with Me </h2>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vedantthakur02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant thakur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/luciferrr.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant thakur" height="30" width="40" /></a>
-<a target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/101052517/222643894-46cff101-3f03-4dbd-9278-40e858c6945c.png)
-" alt="vedant thakur" height="30" width="40" /></a> 
+<a target="blank"><img align="center" src="https://user-images.githubusercontent.com/101052517/222643894-46cff101-3f03-4dbd-9278-40e858c6945c.png" alt="vedant thakur" height="30" width="40" /></a> 
 </p>
 
 
