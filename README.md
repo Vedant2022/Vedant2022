@@ -25,7 +25,8 @@ cross-functional teams to deliver projects on time and within budget.</p>
 
 - 💬 Ask me about **Data-science & Front-End Web-development.**
 
-- 📫 How to reach me **vedantnileshthakur@gmail.com**
+<h2 align="left">Email me At : **vedantnileshthakur@gmail.com** </h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
