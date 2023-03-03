@@ -8,23 +8,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-yogi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@shivam_yogi999" target="blank"><img src="https://img.shields.io/twitter/follow/@shivam_yogi999?logo=twitter&style=for-the-badge" alt="@shivam_yogi999" /></a> </p>
-
 - 🔭 I’m currently working on **Advance Front-End Web Design**
 
 - 🌱 I’m currently learning **Advanced Python & Machine Learning.**
 
-- 💬 Ask me about **cyber security, Data-science & Web-development.**
+- 💬 Ask me about **Data-science & Web-development.**
 
-- 📫 How to reach me **shivamyogi99@gmail.com**
+- 📫 How to reach me **vedantnileshthakur@gmail.com**
 
-- ⚡ Fun fact **Currently doing data science but more passionate about cyber-security!**
+- ⚡ Fun fact **Currently doing data science but more passionate about Front-End Design
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@shivam_yogi999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shivam_yogi999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivam yogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam yogi" height="30" width="40" /></a>
-<a href="https://instagram.com/yogi_shivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogi_shivam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedantthakur02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant thakur" height="30" width="40" /></a>
+<a href="https://www.instagram.com/luciferrr.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant thakur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Programming Languages:</h3>
