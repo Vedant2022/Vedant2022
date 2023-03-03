@@ -16,6 +16,9 @@ designing and developing the visual elements and user interfaces of
 websites. I am a strong communicator and collaborate effectively with
 cross-functional teams to deliver projects on time and within budget.</p>
 
+
+<h2 align="left">A Brief about What I am Doing</h2>
+
 - 🔭 I’m enhancing my skills of **Front-End Web Design**
 
 - 🌱 I’m currently learning **Machine Learning**
