@@ -6,7 +6,14 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-yogi&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant2022&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
+
+<p align="center">I am a Meta Certified Front - End Web Developer with freelancing
+experience in web designing. Helped individuals to-step into the
+competitive world through websites. I am skilled with expertise in
+designing and developing the visual elements and user interfaces of
+websites. I am a strong communicator and collaborate effectively with
+cross-functional teams to deliver projects on time and within budget.</p>
 
 - 🔭 I’m enhancing my skills of **Front-End Web Design**
 
