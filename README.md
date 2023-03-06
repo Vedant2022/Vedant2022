@@ -30,7 +30,7 @@ cross-functional teams to deliver projects on time and within budget.</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/vedantthakur02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant thakur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/luciferrr.0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant thakur" height="30" width="40" /></a>
-<a href="vedantnileshthakur@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101052517/222644293-b567413d-a15d-41ca-a50b-38ea0c35e1ed.png" alt="vedant thakur" height="30" width="40" /></a> 
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=new" target="blank"><img align="center" src="https://user-images.githubusercontent.com/101052517/222644293-b567413d-a15d-41ca-a50b-38ea0c35e1ed.png" alt="vedant thakur" height="30" width="40" /></a> 
 </p>
 
 
