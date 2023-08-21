@@ -48,9 +48,6 @@ cross-functional teams to deliver projects on time and within budget.</p>
   
   <a align="left"> <img src="https://img.shields.io/badge/Code%20Time-211%20hrs%2026%20mins-orange"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vedant2022&show_icons=true&locale=en&layout=compact" alt="Vedant2022" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vedant2022&show_icons=true&locale=en" alt="Vedant2022" /></p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
