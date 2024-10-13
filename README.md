@@ -2,28 +2,29 @@
 <h3 align="center">Pursuing My Passion</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+-+End+Developer;Leader;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Machine Learning Developer;Leader;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vedant2022&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-yogi" /> </p>
 
 <h2 align="center">About Me</h2>
-<p align="center">I am a Meta Certified Front - End Web Developer with freelancing
-experience in web designing. Helped individuals to-step into the
-competitive world through websites. I am skilled with expertise in
-designing and developing the visual elements and user interfaces of
-websites. I am a strong communicator and collaborate effectively with
-cross-functional teams to deliver projects on time and within budget.</p>
+<p align="center">As a Master's student in Data Science at Nottingham Trent University,
+  with a solid foundation from my Bachelor's in Data Science, I am passionate about 
+  exploring computer vision and natural language processing (NLP) techniques. My proficiency
+  in Python enables me to solve complex challenges in the field of data science. I am eager
+  to collaborate on innovative projects that leverage data-driven approaches to create impactful 
+  solutions. Let’s connect and explore opportunities to advance technology through collaboration 
+  and shared expertise.</p>
 
 
 <h2 align="left">A Brief about What I am Doing</h2>
 
-- 🔭 I’m enhancing my skills of **Front-End Web Design**
+- 🔭 I’m enhancing my skills in **Data Science**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data-science & Front-End Web-development.**
+- 💬 Ask me about **Data-science and Machine Learning**
 
 <h2 align="left">Connect with Me </h2>
 
