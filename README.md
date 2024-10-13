@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing My Passion</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Machine Learning Developer;Leader;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Machine Learning Developer;Leader;Always%20learning%20new%20things&center=true&width=500&height=50](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Data+Science+Student;Machine+Learning+Developer" alt="Typing SVG)"></a>
 </p>
 
 
