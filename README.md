@@ -20,13 +20,10 @@
 
 <h2 align="left">A Brief about What I am Doing</h2>
 
-- 🔭 I’m enhancing my skills in **Data Science**
+- 🔭 I’m a Posgraduate Student of Data Science at **Nottingham Trent University**
+- 🔭 I’m enhancing my skills in **Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Data-science and Machine Learning**
-
-<h2 align="left">Connect with Me </h2>
+  <h2 align="left">Connect with Me </h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vedantthakur02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant thakur" height="30" width="40" /></a>
