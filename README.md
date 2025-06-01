@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/vedantthakur02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant thakur" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_vedant.thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant thakur" height="30" width="40" /></a>
 <a href="https://outlook.live.com/mail/0/deeplink/compose?to=vedant.nileshthakur@outlook.com" target="_blank">
-   <img align="center" src="[https://user-images.githubusercontent.com/101052517/222644293-b567413d-a15d-41ca-a50b-38ea0c35e1ed.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Microsoft_Outlook_2013_logo.svg/1024px-Microsoft_Outlook_2013_logo.svg.png)" alt="vedant thakur" height="30" width="40"/>
+   <img align="center" src="outlook.png" alt="vedant thakur" height="30" width="40"/>
 </a>
 </p>
 
